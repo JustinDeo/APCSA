@@ -55,6 +55,7 @@ public class AppointmentBook {
     public static void main(String[] args) {
 
         System.out.println("test");
+        System.out.println("test 2");
 
         //part (a) sample
         boolean[] bookedA = new boolean[60];
